@@ -25,7 +25,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Application.AB">
+  <component name="RunManager" selected="Application.ABBADiv1">
     <configuration name="AB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AB" />
       <module name="Algorithms" />
@@ -33,15 +33,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HotelBooking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HotelBooking" />
+    <configuration name="ABBADiv1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ABBADiv1" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IdenticalConsecutiveLtters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IdenticalConsecutiveLtters" />
+    <configuration name="ABBADiv1TopeCoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ABBADiv1TopeCoder" />
+      <module name="Algorithms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ABBATopCoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ABBATopCoder" />
       <module name="Algorithms" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,20 +61,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RobotPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RobotPath" />
-      <module name="Algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ABBADiv1" />
+        <item itemvalue="Application.ABBATopCoder" />
+        <item itemvalue="Application.ABBADiv1TopeCoder" />
         <item itemvalue="Application.AB" />
         <item itemvalue="Application.NumbersWithEqualDigitSum" />
-        <item itemvalue="Application.IdenticalConsecutiveLtters" />
-        <item itemvalue="Application.RobotPath" />
-        <item itemvalue="Application.HotelBooking" />
       </list>
     </recent_temporary>
   </component>
@@ -85,25 +85,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="217" key="GridCell.Tab.0.bottom" timestamp="1582612214401">
+    <state width="1398" height="326" key="GridCell.Tab.0.bottom" timestamp="1583047781063">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582612214401" />
+    <state width="1398" height="326" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583047781063" />
     <state width="1358" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581484003686" />
-    <state width="1398" height="217" key="GridCell.Tab.0.center" timestamp="1582612214400">
+    <state width="1398" height="326" key="GridCell.Tab.0.center" timestamp="1583047781062">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582612214400" />
+    <state width="1398" height="326" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583047781062" />
     <state width="1358" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581484003686" />
-    <state width="1398" height="217" key="GridCell.Tab.0.left" timestamp="1582612214399">
+    <state width="1398" height="326" key="GridCell.Tab.0.left" timestamp="1583047781061">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582612214399" />
+    <state width="1398" height="326" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583047781061" />
     <state width="1358" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581484003685" />
-    <state width="1398" height="217" key="GridCell.Tab.0.right" timestamp="1582612214401">
+    <state width="1398" height="326" key="GridCell.Tab.0.right" timestamp="1583047781062">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="217" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582612214401" />
+    <state width="1398" height="326" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583047781062" />
     <state width="1358" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581484003686" />
     <state x="370" y="151" width="703" height="598" key="NewModule_or_Project.wizard" timestamp="1582398945158">
       <screen x="0" y="0" width="1440" height="900" />
@@ -114,6 +114,10 @@
     </state>
     <state x="413" y="262" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1581880666870" />
     <state x="413" y="278" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1581567170468" />
+    <state x="428" y="73" key="refactoring.ChangeSignatureDialog" timestamp="1583020980571">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="428" y="73" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1583020980571" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1582262409335">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
