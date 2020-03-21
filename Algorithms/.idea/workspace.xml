@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8d9f7e7-c8c8-4ee3-b781-26e969d9ed0d" name="Default Changelist" comment="" />
+    <list default="true" id="a8d9f7e7-c8c8-4ee3-b781-26e969d9ed0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/Algorithms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeDS/ConstructBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeDS/FlattenBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeDS/LowestCommonAncestor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeDS/MaxDeapthBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeDS/NextRightPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeDS/PathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeDS/RootToLeafSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeDS/SwappedBSTNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeDS/TreeTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TreeDS/ZigZagLevelOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithms/ABBADiv1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithms/ABBADiv1.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +30,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1XORJLIAvqPOIAQl5ir43i6Wlvn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,32 +43,19 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
-  <component name="RunManager" selected="Application.ABBADiv1">
-    <configuration name="AB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AB" />
+  <component name="RunManager" selected="Application.NumbersWithEqualDigitSum">
+    <configuration name="NextRightPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeDS.NextRightPointer" />
       <module name="Algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ABBADiv1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ABBADiv1" />
-      <module name="Algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ABBADiv1TopeCoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ABBADiv1TopeCoder" />
-      <module name="Algorithms" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ABBATopCoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ABBATopCoder" />
-      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TreeDS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -61,13 +67,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeDS.PathSum" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TreeDS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RootToLeafSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeDS.RootToLeafSum" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TreeDS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZigZagLevelOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TreeDS.ZigZagLevelOrder" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TreeDS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ABBADiv1" />
-        <item itemvalue="Application.ABBATopCoder" />
-        <item itemvalue="Application.ABBADiv1TopeCoder" />
-        <item itemvalue="Application.AB" />
         <item itemvalue="Application.NumbersWithEqualDigitSum" />
+        <item itemvalue="Application.PathSum" />
+        <item itemvalue="Application.ZigZagLevelOrder" />
+        <item itemvalue="Application.NextRightPointer" />
+        <item itemvalue="Application.RootToLeafSum" />
       </list>
     </recent_temporary>
   </component>
@@ -85,39 +130,59 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="326" key="GridCell.Tab.0.bottom" timestamp="1583047781063">
+    <state x="454" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1583387539627">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="326" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583047781063" />
-    <state width="1358" height="217" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581484003686" />
-    <state width="1398" height="326" key="GridCell.Tab.0.center" timestamp="1583047781062">
+    <state x="454" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1440.900@0.0.1440.900" timestamp="1583387539627" />
+    <state width="1398" height="290" key="GridCell.Tab.0.bottom" timestamp="1584595525508">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="326" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583047781062" />
-    <state width="1358" height="217" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581484003686" />
-    <state width="1398" height="326" key="GridCell.Tab.0.left" timestamp="1583047781061">
+    <state width="1398" height="290" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584595525508" />
+    <state width="1398" height="326" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1583470259975" />
+    <state width="1398" height="290" key="GridCell.Tab.0.center" timestamp="1584595525506">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="326" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583047781061" />
-    <state width="1358" height="217" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581484003685" />
-    <state width="1398" height="326" key="GridCell.Tab.0.right" timestamp="1583047781062">
+    <state width="1398" height="290" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1584595525506" />
+    <state width="1398" height="326" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1583470259974" />
+    <state width="1398" height="290" key="GridCell.Tab.0.left" timestamp="1584595525505">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="326" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583047781062" />
-    <state width="1358" height="217" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581484003686" />
-    <state x="370" y="151" width="703" height="598" key="NewModule_or_Project.wizard" timestamp="1582398945158">
+    <state width="1398" height="290" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1584595525505" />
+    <state width="1398" height="326" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1583470259974" />
+    <state width="1398" height="290" key="GridCell.Tab.0.right" timestamp="1584595525507">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="370" y="151" width="703" height="598" key="NewModule_or_Project.wizard/0.0.1440.900@0.0.1440.900" timestamp="1582398945158" />
-    <state x="413" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1581880666870">
+    <state width="1398" height="290" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1584595525507" />
+    <state width="1398" height="326" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1583470259975" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1584340351078">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="413" y="262" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1581880666870" />
-    <state x="413" y="278" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1581567170468" />
-    <state x="428" y="73" key="refactoring.ChangeSignatureDialog" timestamp="1583020980571">
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1584340351078" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1584340351077">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="428" y="73" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1583020980571" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1584340351077" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1584340351076">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1584340351076" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1584340351077">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1584340351077" />
+    <state x="370" y="151" width="703" height="598" key="NewModule_or_Project.wizard" timestamp="1583651082858">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="370" y="151" width="703" height="598" key="NewModule_or_Project.wizard/0.0.1440.900@0.0.1440.900" timestamp="1583651082858" />
+    <state x="413" y="262" key="com.intellij.ide.util.TipDialog" timestamp="1584222404816">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="413" y="262" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1584222404816" />
+    <state x="413" y="262" key="com.intellij.ide.util.TipDialog/0.23.1440.877@0.23.1440.877" timestamp="1583651058041" />
+    <state x="428" y="73" key="refactoring.ChangeSignatureDialog" timestamp="1583906044291">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="428" y="73" key="refactoring.ChangeSignatureDialog/0.0.1440.900@0.0.1440.900" timestamp="1583906044291" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1582262409335">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
